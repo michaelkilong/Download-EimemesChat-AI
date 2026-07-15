@@ -1,24 +1,24 @@
-# Download EimemesChat AI
+<p align="center">
+  <img src="assets/chat-logo.png" alt="EimemesChat AI Logo" width="120">
+</p>
 
-Welcome! Download the latest official Android version below.
+<h1 align="center">EimemesChat AI</h1>
+
+<p align="center">
+  <strong>Official Android Download</strong><br>
+  Fast • Secure • Always Latest Version
+</p>
+
+<p align="center">
+  <a href="https://github.com/michaelkilong/Download-EimemesChat-AI/releases/latest/download/EimemesChat.apk">
+    <img src="https://img.shields.io/badge/Download-Latest_APK-2ea44f?style=for-the-badge" alt="Download APK">
+  </a>
+</p>
+
+---
 
 ## 📥 Download
 
-[**⬇ Download EimemesChat AI APK**](https://github.com/michaelkilong/Download-EimemesChat-AI/releases/latest/download/EimemesChat.apk)
+Click the button above or use the direct link below:
 
----
-
-## Version
-
-**Latest:** v4.0.0
-
-## Installation
-
-1. Tap the download button above.
-2. Open the downloaded APK.
-3. Allow installation from unknown sources if prompted.
-4. Install and enjoy EimemesChat AI.
-
----
-
-Thank you for using EimemesChat AI!
+**https://github.com/michaelkilong/Download-EimemesChat-AI/releases/latest/download/EimemesChat.apk**
